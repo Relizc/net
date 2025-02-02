@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 12 18:43:36 CST 2022
+https\://maven.citizensnpcs.co/repo/.error=
+https\://maven.citizensnpcs.co/repo/.lastUpdated=1662979415941
+https\://repo.maven.apache.org/maven2/.lastUpdated=1662979416810
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1662979409387
+https\://jitpack.io/.error=
+https\://repo.dmulloy2.net/repository/public/.error=
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1662979410368
+https\://jitpack.io/.lastUpdated=1662979415748
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=

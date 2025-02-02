@@ -1,0 +1,16 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 02 15:18:50 CST 2022
+https\://jitpack.io/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact net.saltyfishstudios.mcplugins.parkland\:SFNParkan\:pom\:1.0.0 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public/)\: repo.bukkit.org
+https\://repo.viaversion.com/.lastUpdated=1659424707875
+https\://repo.dmulloy2.net/repository/public/.error=
+https\://repo.citizensnpcs.co/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1659424730931
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1659424706776
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1659424705876
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1659424706297
+https\://jitpack.io/.lastUpdated=1659424706772
+https\://repo.citizensnpcs.co/.lastUpdated=1659424730563
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=
+https\://repo.viaversion.com/.error=

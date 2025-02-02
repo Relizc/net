@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.saltyfishstudios.mcplugins.main</groupId>
+  <artifactId>MainPlugin</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220512023710</lastUpdated>
+  </versioning>
+</metadata>

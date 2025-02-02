@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Sep 17 10:27:42 CST 2022
+https\://jitpack.io/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact net.citizensnpcs\:citizens-main\:pom\:2.0.30-20220912.171347-13 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public/)\: No such host is known (repo.bukkit.org)
+https\://repo.viaversion.com/.lastUpdated=1663381661360
+https\://repo.dmulloy2.net/repository/public/.error=
+https\://maven.citizensnpcs.co/repo/.lastUpdated=1663026915416
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1663381659481
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1663026914552
+https\://jitpack.io/.lastUpdated=1663026914761
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1663026915019
+https\://repo.citizensnpcs.co/.lastUpdated=1663381662730
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=
+https\://repo.viaversion.com/.error=

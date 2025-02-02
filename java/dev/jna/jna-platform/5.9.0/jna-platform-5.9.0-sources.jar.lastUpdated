@@ -1,0 +1,15 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 06 12:05:47 CST 2022
+https\://repo.md-5.net/content/repositories/snapshots/.lastUpdated=1662437144550
+https\://jitpack.io/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact net.java.dev.jna\:jna-platform\:jar\:sources\:5.9.0 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public/)\: repo.bukkit.org
+https\://repo.dmulloy2.net/repository/public/.error=
+https\://repo.md-5.net/content/repositories/releases/.error=
+https\://repo.md-5.net/content/repositories/releases/.lastUpdated=1662437145986
+https\://repo.maven.apache.org/maven2/.lastUpdated=1662437147947
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1662437143476
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1662437141508
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1662437142551
+https\://jitpack.io/.lastUpdated=1662437143467
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=
+https\://repo.md-5.net/content/repositories/snapshots/.error=

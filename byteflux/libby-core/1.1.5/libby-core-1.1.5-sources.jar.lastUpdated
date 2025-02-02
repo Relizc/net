@@ -1,0 +1,18 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 27 11:32:45 CST 2023
+https\://jitpack.io/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact net.byteflux\:libby-core\:jar\:sources\:1.1.5 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public/)\: repo.bukkit.org
+https\://repo.viaversion.com/.lastUpdated=1674288332787
+https\://repo.dmulloy2.net/repository/public/.error=
+https\://hub.spigotmc.org/nexus/content/groups/public/.error=
+https\://maven.citizensnpcs.co/repo/.error=
+https\://maven.citizensnpcs.co/repo/.lastUpdated=1674289009242
+https\://repo.maven.apache.org/maven2/.lastUpdated=1674288333618
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1674288331228
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1674288329285
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1674288330179
+https\://jitpack.io/.lastUpdated=1674288331218
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=
+https\://hub.spigotmc.org/nexus/content/groups/public/.lastUpdated=1674790365360
+https\://repo.viaversion.com/.error=

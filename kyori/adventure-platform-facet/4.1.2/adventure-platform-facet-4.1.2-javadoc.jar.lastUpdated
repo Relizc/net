@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 11 09:34:53 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1662860093527
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1662860089656
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1662860086649
+https\://jitpack.io/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact net.kyori\:adventure-platform-facet\:jar\:javadoc\:4.1.2 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public/)\: repo.bukkit.org
+https\://repo.viaversion.com/.lastUpdated=1662860091384
+https\://repo.dmulloy2.net/repository/public/.error=
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1662860088475
+https\://jitpack.io/.lastUpdated=1662860089644
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=
+https\://repo.viaversion.com/.error=

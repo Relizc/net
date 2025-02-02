@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 03 17:36:18 CST 2025
+https\://repo.maven.apache.org/maven2/.lastUpdated=1735896978151
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1735896236414
+@default-dmulloy2-repo-https\://repo.dmulloy2.net/repository/public/.lastUpdated=1735896936575
+https\://jitpack.io/.error=
+https\://repo.dmulloy2.net/repository/public/.error=Could not transfer artifact net.itsrelizc.smp\:homeplugin\:jar\:javadoc\:1.0.0 from/to dmulloy2-repo (https\://repo.dmulloy2.net/repository/public/)\: Connect timed out
+https\://repo.maven.apache.org/maven2/.error=
+https\://jitpack.io/.lastUpdated=1735896976969
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=

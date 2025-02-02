@@ -1,0 +1,15 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 11 09:31:28 CST 2022
+https\://jitpack.io/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact net.kyori\:adventure-platform-api\:jar\:sources\:4.1.2 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public/)\: repo.bukkit.org
+https\://repo.viaversion.com/.lastUpdated=1662859884257
+https\://repo.dmulloy2.net/repository/public/.error=
+https\://repo.citizensnpcs.co/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1662859888897
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1662859882539
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1662859880766
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1662859881704
+https\://jitpack.io/.lastUpdated=1662859882537
+https\://repo.citizensnpcs.co/.lastUpdated=1662859885383
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=
+https\://repo.viaversion.com/.error=

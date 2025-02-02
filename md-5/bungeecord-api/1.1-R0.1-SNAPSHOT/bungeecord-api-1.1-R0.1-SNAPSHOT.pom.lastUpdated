@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 07 18:57:30 CST 2022
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1651921050903
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1651921050208
+https\://jitpack.io/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact net.md-5\:bungeecord-api\:pom\:1.1-R0.1-SNAPSHOT from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public/)\: repo.bukkit.org
+https\://repo.dmulloy2.net/repository/public/.error=
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1651921050627
+https\://jitpack.io/.lastUpdated=1651921050895
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=

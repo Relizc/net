@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 18 20:05:00 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1650283500396
+@default-jitpack.io-https\://jitpack.io/.lastUpdated=1650283499800
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1650283499082
+https\://jitpack.io/.error=Could not transfer artifact net.saltyfi\:[Your Library artifactId]\:pom\:1.0.0 from/to jitpack.io (https\://jitpack.io)\: Failed to transfer https\://jitpack.io/net/saltyfi/[Your+Library+artifactId]/1.0.0/[Your+Library+artifactId]-1.0.0.pom. Error code 400, 
+https\://repo.dmulloy2.net/repository/public/.error=
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1650283499502
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=

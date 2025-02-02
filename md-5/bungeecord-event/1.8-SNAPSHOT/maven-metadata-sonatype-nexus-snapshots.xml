@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>net.md-5</groupId>
+  <artifactId>bungeecord-event</artifactId>
+  <version>1.8-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160221.214626</timestamp>
+      <buildNumber>126</buildNumber>
+    </snapshot>
+    <lastUpdated>20160221214626</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.8-20160221.214626-126</value>
+        <updated>20160221214626</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.8-20160221.214626-126</value>
+        <updated>20160221214626</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>1.8-20160221.214626-126</value>
+        <updated>20160221214626</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.8-20160221.214626-126</value>
+        <updated>20160221214626</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

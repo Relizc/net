@@ -1,0 +1,18 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 12 13:46:41 CST 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1662859960737
+@default-jitpack.io-https\://jitpack.io/.lastUpdated=1662859960734
+@default-dmulloy2-repo-https\://repo.dmulloy2.net/repository/public/.lastUpdated=1662859960733
+https\://jitpack.io/.error=Could not transfer artifact net.kyori\:adventure-platform-facet\:jar\:sources\:4.1.2 from/to jitpack.io (https\://jitpack.io)\: No connector factories available
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact net.kyori\:adventure-platform-facet\:jar\:sources\:4.1.2 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public/)\: No connector factories available
+https\://repo.dmulloy2.net/repository/public/.error=Could not transfer artifact net.kyori\:adventure-platform-facet\:jar\:sources\:4.1.2 from/to dmulloy2-repo (https\://repo.dmulloy2.net/repository/public/)\: No connector factories available
+https\://repo.citizensnpcs.co/.error=Could not transfer artifact net.kyori\:adventure-platform-facet\:jar\:sources\:4.1.2 from/to everything (https\://repo.citizensnpcs.co/)\: No connector factories available
+@default-everything-https\://repo.citizensnpcs.co/.lastUpdated=1662859960736
+https\://maven.citizensnpcs.co/repo/.error=
+https\://maven.citizensnpcs.co/repo/.lastUpdated=1662961601293
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1662859960735
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1662859960732
+@default-viaversion-repo-https\://repo.viaversion.com/.lastUpdated=1662859960735
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact net.kyori\:adventure-platform-facet\:jar\:sources\:4.1.2 from/to central (https\://repo.maven.apache.org/maven2)\: No connector factories available
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=
+https\://repo.viaversion.com/.error=Could not transfer artifact net.kyori\:adventure-platform-facet\:jar\:sources\:4.1.2 from/to viaversion-repo (https\://repo.viaversion.com)\: No connector factories available

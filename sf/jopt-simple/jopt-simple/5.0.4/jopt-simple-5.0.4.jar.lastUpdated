@@ -1,0 +1,15 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 01 08:40:16 CST 2022
+https\://jitpack.io/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact net.sf.jopt-simple\:jopt-simple\:jar\:5.0.4 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public/)\: repo.bukkit.org
+https\://repo.viaversion.com/.lastUpdated=1661992581969
+https\://repo.dmulloy2.net/repository/public/.error=
+https\://repo.citizensnpcs.co/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1661992816683
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1661992569296
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1661992562067
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1661992569060
+https\://jitpack.io/.lastUpdated=1661992571379
+https\://repo.citizensnpcs.co/.lastUpdated=1661992740246
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=
+https\://repo.viaversion.com/.error=

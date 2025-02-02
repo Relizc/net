@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 26 16:49:24 CST 2022
+https\://jitpack.io/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact net.saltyfishstudios.global\:SFNGl\:pom\:4.7.0 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public/)\: repo.bukkit.org
+https\://repo.viaversion.com/.lastUpdated=1653554964071
+https\://repo.dmulloy2.net/repository/public/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653554964472
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1653554941657
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1653554941104
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1653554941386
+https\://jitpack.io/.lastUpdated=1653554941655
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=
+https\://repo.viaversion.com/.error=

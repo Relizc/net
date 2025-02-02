@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 12 18:38:00 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1662979080800
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1662979079560
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1662979077885
+https\://jitpack.io/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact net.itsrelizc.server.global\:RSG\:pom\:1.0.0 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public/)\: repo.bukkit.org
+https\://repo.dmulloy2.net/repository/public/.error=
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1662979078373
+https\://jitpack.io/.lastUpdated=1662979079558
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=

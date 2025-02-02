@@ -1,0 +1,18 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 27 11:32:43 CST 2023
+https\://jitpack.io/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact net.citizensnpcs\:citizens-main\:jar\:sources\:2.0.30-SNAPSHOT from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public/)\: repo.bukkit.org
+https\://repo.viaversion.com/.lastUpdated=1655023910509
+https\://repo.dmulloy2.net/repository/public/.error=
+https\://hub.spigotmc.org/nexus/content/groups/public/.error=
+https\://repo.citizensnpcs.co/.error=
+https\://maven.citizensnpcs.co/repo/.error=
+https\://maven.citizensnpcs.co/repo/.lastUpdated=1662959655801
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1655023909355
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1655023907567
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1655023908550
+https\://jitpack.io/.lastUpdated=1655023909348
+https\://repo.citizensnpcs.co/.lastUpdated=1655023911957
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=
+https\://hub.spigotmc.org/nexus/content/groups/public/.lastUpdated=1674790363465
+https\://repo.viaversion.com/.error=

@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 05 18:35:27 CST 2022
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1651746927789
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.error=
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1651746041797
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.lastUpdated=1651746041258
+https\://jitpack.io/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact net.md-5\:bungeecord-event\:pom\:1.8-20160221.214626-126 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public/)\: repo.bukkit.org
+https\://repo.dmulloy2.net/repository/public/.error=
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1651746041822
+https\://jitpack.io/.lastUpdated=1651746041902
