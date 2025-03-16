@@ -1,9 +1,10 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Sep 11 12:15:24 CST 2022
+#Tue Feb 11 21:33:12 CST 2025
 https\://repo.maven.apache.org/maven2/.lastUpdated=1662869724061
 https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1662869718637
 https\://jitpack.io/.error=
 https\://repo.dmulloy2.net/repository/public/.error=
 https\://repo.dmulloy2.net/repository/public/.lastUpdated=1662869720810
 https\://jitpack.io/.lastUpdated=1662869720991
+http\://maven.aliyun.com/.lastUpdated=1739280792449
 https\://hub.spigotmc.org/nexus/content/repositories/public/.error=

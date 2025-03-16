@@ -1,5 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Sep 01 08:45:16 CST 2022
+#Wed Feb 12 20:53:29 CST 2025
 jna-5.10.0.jar>central=
 jna-5.10.0.pom>central=
+jna-5.10.0.pom>aliyun=
 jna-5.10.0-sources.jar>central=
+jna-5.10.0.jar>aliyun=

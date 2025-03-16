@@ -1,4 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Dec 14 15:31:04 CST 2024
+#Tue Feb 11 21:32:29 CST 2025
 bungeecord-chat-1.20-R0.1.pom>central=
+bungeecord-chat-1.20-R0.1-sources.jar>aliyun=
+bungeecord-chat-1.20-R0.1.pom>aliyun=
 bungeecord-chat-1.20-R0.1.jar>central=
+bungeecord-chat-1.20-R0.1.jar>aliyun=
