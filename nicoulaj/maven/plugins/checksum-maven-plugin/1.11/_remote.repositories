@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Dec 14 15:42:49 CST 2024
+#Sat Mar 22 14:58:45 CST 2025
+checksum-maven-plugin-1.11.jar>aliyun=
 checksum-maven-plugin-1.11.jar>central=
+checksum-maven-plugin-1.11.pom>aliyun=
 checksum-maven-plugin-1.11.pom>central=

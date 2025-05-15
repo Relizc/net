@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 22 15:11:24 CST 2025
+https\://maven.mohistmc.com/.lastUpdated=1742627484594
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1742627443492
+https\://jitpack.io/.error=
+https\://repo.dmulloy2.net/repository/public/.error=
+@default-aliyun-http\://maven.aliyun.com/.lastUpdated=1742627412310
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1742627444672
+https\://jitpack.io/.lastUpdated=1742627445633
+http\://maven.aliyun.com/.error=Could not transfer artifact net.java.dev.jna\:jna-platform\:jar\:sources\:5.12.1 from/to aliyun (http\://maven.aliyun.com/)\: maven.aliyun.com
+https\://hub.spigotmc.org/nexus/content/repositories/public/.error=
+https\://maven.mohistmc.com/.error=

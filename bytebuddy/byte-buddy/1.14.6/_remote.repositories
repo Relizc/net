@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Dec 14 15:31:04 CST 2024
-byte-buddy-1.14.6.pom>central=
+#Sat Mar 22 14:58:31 CST 2025
+byte-buddy-1.14.6.jar>aliyun=
 byte-buddy-1.14.6.jar>central=
+byte-buddy-1.14.6.pom>aliyun=
+byte-buddy-1.14.6.pom>central=

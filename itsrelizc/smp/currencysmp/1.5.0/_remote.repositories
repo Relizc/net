@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Mar 15 23:28:35 CST 2025
+#Tue May 13 19:09:44 CST 2025
 currencysmp-1.5.0.pom>=
+currencysmp-1.5.0-remapped-obf.jar>=
 currencysmp-1.5.0.jar>=

@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Dec 14 16:34:09 CST 2024
-jopt-simple-4.9.pom>central=
+#Sat Mar 22 14:59:18 CST 2025
+jopt-simple-4.9.jar>aliyun=
 jopt-simple-4.9.jar>central=
+jopt-simple-4.9.pom>aliyun=
+jopt-simple-4.9.pom>central=

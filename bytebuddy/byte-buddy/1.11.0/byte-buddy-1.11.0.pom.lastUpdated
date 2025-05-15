@@ -1,7 +1,11 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Feb 25 10:37:11 CST 2022
+#Sun Mar 16 15:24:59 CST 2025
 https\://repo.maven.apache.org/maven2/.lastUpdated=1645756631123
-https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1645756628201
+https\://hub.spigotmc.org/nexus/content/repositories/public/.lastUpdated=1742109895460
+https\://jitpack.io/.error=
 https\://repo.dmulloy2.net/repository/public/.error=
-https\://repo.dmulloy2.net/repository/public/.lastUpdated=1645756628630
+https\://repo.dmulloy2.net/repository/public/.lastUpdated=1742109898591
+https\://jitpack.io/.lastUpdated=1742109899563
+@default-aliyun-http\://maven.aliyun.com/.lastUpdated=1742109899574
+http\://maven.aliyun.com/.error=Could not transfer artifact net.bytebuddy\:byte-buddy\:pom\:1.11.0 from/to aliyun (http\://maven.aliyun.com/)\: No such host is known (maven.aliyun.com)
 https\://hub.spigotmc.org/nexus/content/repositories/public/.error=

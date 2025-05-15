@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Dec 25 19:18:53 CST 2022
+#Sat Mar 22 15:12:48 CST 2025
 jna-5.12.1.pom>central=
 jna-5.12.1.jar>central=
+jna-5.12.1-javadoc.jar>aliyun=
+jna-5.12.1.pom>aliyun=
+jna-5.12.1.jar>minecraft-libraries=
+jna-5.12.1.pom>minecraft-libraries=

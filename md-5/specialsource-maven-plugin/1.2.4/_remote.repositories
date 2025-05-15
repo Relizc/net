@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Dec 14 15:42:16 CST 2024
-specialsource-maven-plugin-1.2.4.pom>central=
+#Sat Mar 22 14:58:45 CST 2025
+specialsource-maven-plugin-1.2.4.jar>aliyun=
 specialsource-maven-plugin-1.2.4.jar>central=
+specialsource-maven-plugin-1.2.4.pom>aliyun=
+specialsource-maven-plugin-1.2.4.pom>central=

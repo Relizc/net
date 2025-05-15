@@ -1,5 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Mar 15 22:33:06 CST 2025
+#Wed May 14 21:29:28 CST 2025
 newbundler-1.0.0.jar>=
 newbundler-1.0.0-jar-with-dependencies.jar>=
 newbundler-1.0.0.pom>=
+newbundler-1.0.0-remapped-obf.jar>=

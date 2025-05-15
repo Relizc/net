@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Feb 06 13:33:43 CST 2025
+#Thu May 15 00:17:19 CST 2025
+insurance-1.1.0-remapped-obf.jar>=
 insurance-1.1.0.pom>=
 insurance-1.1.0.jar>=
